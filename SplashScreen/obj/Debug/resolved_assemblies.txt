@@ -1,0 +1,11 @@
+C:\Users\Sergio\Documents\Projects\SplashScreen\SplashScreen\obj\Debug\assemblies\SplashScreen.dll
+C:\Users\Sergio\Documents\Projects\SplashScreen\SplashScreen\obj\Debug\assemblies\Mono.Android.dll
+C:\Users\Sergio\Documents\Projects\SplashScreen\SplashScreen\obj\Debug\assemblies\mscorlib.dll
+C:\Users\Sergio\Documents\Projects\SplashScreen\SplashScreen\obj\Debug\assemblies\System.Core.dll
+C:\Users\Sergio\Documents\Projects\SplashScreen\SplashScreen\obj\Debug\assemblies\System.dll
+C:\Users\Sergio\Documents\Projects\SplashScreen\SplashScreen\obj\Debug\assemblies\System.Xml.dll
+C:\Users\Sergio\Documents\Projects\SplashScreen\SplashScreen\obj\Debug\assemblies\Xamarin.Android.Support.v13.dll
+C:\Users\Sergio\Documents\Projects\SplashScreen\SplashScreen\obj\Debug\assemblies\Xamarin.Android.Support.v4.dll
+C:\Users\Sergio\Documents\Projects\SplashScreen\SplashScreen\obj\Debug\assemblies\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\Sergio\Documents\Projects\SplashScreen\SplashScreen\obj\Debug\assemblies\System.Runtime.Serialization.dll
+C:\Users\Sergio\Documents\Projects\SplashScreen\SplashScreen\obj\Debug\assemblies\System.ServiceModel.Internals.dll
